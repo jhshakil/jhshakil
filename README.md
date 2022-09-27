@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://effervescent-axolotl-6a43a8.netlify.app/](https://effervescent-axolotl-6a43a8.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React**, Vue**
+- 💬 Ask me about **JavaScript, React**, Vue
 
 - 📫 How to reach me **jhshakil11275@gmail.com**
 
