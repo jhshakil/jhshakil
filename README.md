@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhshakil&label=Profile%20views&color=0e75b6&style=flat" alt="jhshakil" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Node and Express**
 
 - 👨‍💻 All of my projects are available at [https://effervescent-axolotl-6a43a8.netlify.app/](https://effervescent-axolotl-6a43a8.netlify.app/)
 
